@@ -1,5 +1,15 @@
+* {
+    font-family: "Courier New", 'Times New Roman', Times, serif;
+    color: rgb(0, 100, 0);
+}
+h1 {
+    color: rgb(4, 71, 4);
+    text-align: center;
+    font-family: "Papyrus", 'Times New Roman', Times, serif;
+}
 .center {
     text-align: center;
+    align-items: center;
 }
 .left {
     text-align: left;
@@ -8,8 +18,13 @@
     text-align: right;
 }
 .pagecolor {
-    background-color: darkseagreen;
+    background-color: rgb(177, 230, 177);
 }
-h1 {
-    color: rgb(0, 100, 0);
+p,
+ol li {
+    font-family: "Papyrus", 'Times New Roman', Times, serif;
+}
+.picsize {
+    height: 300px;
+    width:auto;
 }
