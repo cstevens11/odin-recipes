@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.pagecolor {
+    background-color: darkseagreen;
+}
+h1 {
+    color: rgb(0, 100, 0);
+}
